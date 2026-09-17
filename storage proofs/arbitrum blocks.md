@@ -37,10 +37,10 @@ Conclusions:
 - Block cadence and the cadence at which block hashes become available matches
   that of the L1, and is therefore compatible with our [proof timing][7] design.
 
-[1]: https://github.com/durability-labs/archivist-research-old/blob/master/design/storage-proof-timing.md
-[2]: https://github.com/durability-labs/archivist-research-old/blob/master/design/storage-proof-timing.md#evm-and-solidity
+[1]: https://github.com/promethei-project/promethei-research-old/blob/master/design/storage-proof-timing.md
+[2]: https://github.com/promethei-project/promethei-research-old/blob/master/design/storage-proof-timing.md#evm-and-solidity
 [3]: https://docs.arbitrum.io/build-decentralized-apps/arbitrum-vs-ethereum/solidity-support
 [4]: https://docs.arbitrum.io/how-arbitrum-works/deep-dives/geth#l1blockhash
-[5]: https://github.com/durability-labs/evm-block-info
+[5]: https://github.com/promethei-project/evm-block-info
 [6]: https://research.arbitrum.io/t/access-to-l1-block-hash-on-arbitrum/9635
-[7]: https://github.com/durability-labs/archivist-research-old/blob/master/design/storage-proof-timing.md#block-pointers
+[7]: https://github.com/promethei-project/promethei-research-old/blob/master/design/storage-proof-timing.md#block-pointers
